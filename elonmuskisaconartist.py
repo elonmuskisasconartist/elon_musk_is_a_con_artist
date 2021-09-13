@@ -3,7 +3,7 @@ from TwitterAPI import TwitterAPI, TwitterPager
 # https://en.wikipedia.org/wiki/Criticism_of_Tesla,_Inc
 SEARCH_TERM = 'getting Trevor Milton for misleading'
 PRODUCT = 'fullarchive'
-LABEL = 'prod'
+LABEL = <whatever-prod>
 api = TwitterAPI(<consumer key>,
                  <consumer secret>,
                  <access token key>,
